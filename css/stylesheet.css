@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Space+Mono&display=swap');
+
+body {
+    background-color: #FFFBAC;
+}
+
+h1 {
+    color: #FAAB78;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 150px;
+    margin: 20px 300px;
+    padding: 0px 70px;
+}
+
+h1:hover {
+    color: #FF6464;
+} 
+
+img {
+    border-radius: 50px;
+    width: 50px;
+}
+
+.paragraph{
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+.smiling , .orange {
+    background-color: orange;
+    width: 150px;
+}
